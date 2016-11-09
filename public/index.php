@@ -10,6 +10,8 @@ spl_autoload_register(function ($class){
 });
 
 
+// New cooment to test git
+$root = test;
 $router = new Core\Router();
 
 // Add the routes
