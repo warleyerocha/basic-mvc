@@ -1,2 +1,2 @@
 # basic-mvc
-Very basic bootstrap MVC platform written in PHP. Not supposed to be used in production.
+Very basic bootstrap CMS MVC platform written in PHP. Not supposed to be used in production.
