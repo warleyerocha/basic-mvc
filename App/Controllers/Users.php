@@ -2,7 +2,7 @@
 
 namespace App\Controllers;
 use \Core\View;
-use App\Model\User;
+use App\Models\User;
 use App\Models\Menu;
 
 class Users extends \Core\Controller 

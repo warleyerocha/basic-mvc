@@ -2,13 +2,13 @@
 
 namespace App\Controllers;
 use \Core\View;
-use App\Model\Post;
+use App\Models\Post;
 use App\Models\Menu;
 
 class Posts extends \Core\Controller 
 {
 
-	public function index()
+	public function indexAction()
 	{
 		$menus = Menu::getall();
 		$root = $_SERVER['SERVER_NAME'];
